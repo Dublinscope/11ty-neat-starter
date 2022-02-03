@@ -10,7 +10,7 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
+# Title h1
 
 ## This is a Heading h2
 
